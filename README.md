@@ -1,7 +1,6 @@
 
 
 1. **Clone the Repository**:
- Provides instructions on how to clone the repository from GitHub.
   https://github.com/awadhesh010/task_management_frontend.git
 
 2. **Install Dependencies**: 
